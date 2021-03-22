@@ -1,0 +1,11 @@
+Required Softwares-
+	1. MySQL8.0
+
+Required Modules-(The program will install the modules in the first execution on it's own but in case it doesn't then install the following)
+	1. fpdf==1.7.2
+	2. tk==0.1.0
+	3. smtp==0.1.0
+	4. mysql==0.0.2
+	5. mysql-connector==2.2.9
+        6. mysql-connector-python==8.0.21
+	7. mysqlclient==2.0.1

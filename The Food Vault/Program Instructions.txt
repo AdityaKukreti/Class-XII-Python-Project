@@ -1,0 +1,77 @@
+Instructions-
+
+WARNING - DO NOT DELETE ANY OF THE FOLLOWING-
+            * bat file
+                * module installation.bat
+            * csv and text files
+                * smtp_info.txt
+            * Background and Icon
+                * Images in this folder
+            * Any module present in Customer and Restaurant folders.
+
+
+
+
+THE FOOD VAULT-
+
+1. Open the The Food Vault.py file.
+note - First execution will take a little time since the program will install all 
+       the required modules and create the required database and files. Later executions
+       will take lesser time.
+
+!!!DO NOT DELETE ANY FOLDER CREATED AFTER FIRST EXECUTION. DOING SO WILL CREATE AN ERROR IN THE EXECUTION!!!
+
+2. Click on Sign Up button to create an account.
+
+3. Enter all the credentials required.
+note - Email should be a valid email id since verification code and invoice will be sent to it.
+
+4. Click 'Register' button.
+
+5. Enter the verification code sent to your email.
+
+6. After successful verification, you'll see a welcome screen.
+
+7. Click on 'Restaurant List' button to open the list of restaurants.
+
+8. Click on any restaurant to open it's menu.
+
+9. Double click on the items you wanna add to your cart list.
+
+10. After adding the items, click on 'Add items to cart' button.
+
+10. Click on 'Cart' button to open the cart.
+
+11. If you wanna remove all the items then click on 'Clear Cart' button.
+
+12. If you wanna place order then click on 'Place Order' button.
+
+13. Select your address and click on 'Confirm and Proceed' button to place order. An invoice of your order will be sent to your email.
+
+14. To check your order status/history click on 'Order History' button.
+
+15. Double click on one of the list item to open the order details.
+
+16. To download a single invoice, select an invoice and click on 'Download Selected Invoice'.
+
+17. To download all the invoices, click on 'Download All Invoices'.
+
+18. Invoices will be downloaded in the Invoice folder in the same directory as the program.
+
+19. To edit your 'Account Details', click on 'User Details' Button to see all your details and edit them.
+
+20. If you wanna delete your account, click on 'Delete Account' button and enter your password to confirm.
+    An email will be sent to your mail informing abt the account deletion.
+
+THE FOOD VAULT RESTAURANT-
+
+1. Open the The Food Vault Restaurant.py file.
+
+2. To login, use the restaurant code and restaurant name.
+
+3. After logging in successfully, you'll see the 'Pending Order' screen.
+
+4. Select an order from the screen and click on 'Order Delivered' Button to change the status of the order from pending to deliverd.
+
+5. If you want to see the orders delivered by the restaurant, click on 'Delivered Orders' button. 
+  
